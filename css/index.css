@@ -1,0 +1,219 @@
+        header {
+            background: #FF9900;
+            padding: 20px 0;
+            border-radius: 7px;
+            width: 100%;
+    }
+        .caixa{
+            
+            position: relative;
+            width: 940px;   
+            margin: 0 auto;
+    }
+        nav {
+            position: absolute;
+            top: 110px;
+            right: 0;
+    }
+        nav li {
+            display: inline;
+            margin: 0 0 0 15px;
+            position: relative;
+    }
+        nav a {
+            text-transform:uppercase;
+            color: black;
+            font-weight: bold;
+            font-size: 22px;
+            text-decoration: none   ;
+            font-family: sans-serif;
+    }
+
+        nav a:hover {
+            color: white;
+    } 
+        logo {
+            border-radius: 50px;
+            width: 70px;
+    }
+
+        body {
+            background: black;
+    }
+         .imglogo {
+            margin-top: 30px;
+            text-align: center;
+            border-radius: 100px;
+            box-shadow: 1px 1px 5px white;
+            width: 150px;
+            height: 150px;
+    
+    }
+        .imgcelular {
+            text-align: center;
+            max-width:160px;
+            max-height:160px;
+            position: absolute;
+            top: 60%;
+            left: 82%;
+    
+    }
+
+          imgperfil {
+            margin-top: 30px;
+            text-align: center;
+            border-radius: 100px;
+            box-shadow: 1px 1px 5px white;
+
+    }
+        .imgicons {
+            max-width:100px;
+            max-height:100px;
+            width: auto;
+            height: auto;
+    }
+         .icons li {
+            display: inline-block;
+            text-align: center;
+            font-family: sans-serif;
+            width: 20%;
+            vertical-align: top;
+            background: #FF9900;
+            margin: 0 1.5%;
+            padding: 5px 5px;
+            box-sizing: border-box;
+            border-radius: 20px;
+            border-color: #000000;
+            border-width: 2px;
+            border-style: solid;
+
+
+    }
+        .icons li:hover {
+             border-color: #ffffff;
+    }
+        .icons li:hover h2 {
+              font-size: 25px;
+    }
+         .icons li:active {
+             border-color: #ffffff;
+    }
+
+         .icons {
+            width: 940px;
+            margin: 0 auto;
+            padding: 50px 0;
+        }
+        .icons h2 {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            background: black;
+            padding: 10px 0 ;
+        }
+
+        .Copyright{
+            color: #cccccc;
+            font-size: 13px;
+
+        }
+        h2 {
+            text-align: center;
+            color: #FF9900;
+            font-family: sans-serif;
+            font-size: 50px;
+        }
+        h3 {
+            text-align: center;
+            color: #FF9900;
+            font-family: sans-serif;
+            font-size: 50px;
+        }
+        h4 {
+            text-align: center;
+            color: white;
+            font-family: sans-serif;
+            font-size: 35px;
+        }
+        h5{
+            text-align: center;
+            font-family: sans-serif;
+        }
+       
+                    /* login  */
+        .card-group > input {
+            border-radius: 7px;
+            outline: 0;
+            width: 80%;
+            height: 40px;
+            padding: 5px;
+        
+        }
+
+        .card-group > button {
+            background: rgba(0, 0, 0, 0.92);
+            width: 80%;    
+            border-radius: 20px;
+            padding: 20px;
+            color: white;
+            border: 0px;
+            outline: 0;
+        
+        }
+
+        .botaocalcular {
+            background: rgba(0, 0, 0, 0.92);
+            width: 80%;    
+            border-radius: 20px;
+            padding: 20px;
+            color: white;
+            border: 0px;
+            outline: 0;
+
+        }
+        h2 {
+            font: small ;                                                                                                                                                                                                                  ;
+            color: black;
+            text-align: center;
+            font-family: sans-serif;
+        
+        }
+
+        .form {
+    
+            margin: auto;
+            
+        }
+        .card {
+            margin-top: 60px;
+            background: #FF9900;
+            border: 1px solid #FF9900;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            border-radius: 7px;
+            text-align: center;
+        
+        }
+        .card-top {
+            text-align: center;
+        }
+        .card-group {
+            margin-bottom: 20px;
+        }
+        .imglogin {
+            margin-top: 30px;
+            text-align: center;
+            border-radius: 50px;
+            width: 100px;
+            box-shadow: 1px 1px 5px white;
+        }
+        
+
+            .form {
+            width: 400px;
+            height: 216px;
+            margin: auto;
+
+        }
+       
