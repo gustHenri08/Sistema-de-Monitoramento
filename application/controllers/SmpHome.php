@@ -14,4 +14,6 @@ class SmpHome extends CI_Controller{
     }
 
     
+
+    
 }
