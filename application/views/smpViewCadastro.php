@@ -82,18 +82,18 @@
 
     
 
-    <a href="<?php echo site_url('SmpController'); ?>" class="text-center"><br>Já sou Cadastrado</a>
+    <a href="<?php echo site_url('SmpController'); ?>" class="text-center"><br>Já sou Cadastrado</a> <!-- href=" ?php echo site_url(); ? => responsável por fazer a chamda do controller -->
   </div>
   <!-- /.form-box -->
 </div>
 <!-- /.register-box -->
 
 <!-- jQuery 2.2.3 -->
-<script src="../../plugins/jQuery/jquery-2.2.3.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/jQuery/jquery-2.2.3.min.js"></script>
 <!-- Bootstrap 3.3.6 -->
-<script src="../../bootstrap/js/bootstrap.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/bootstrap/js/bootstrap.min.js"></script>
 <!-- iCheck -->
-<script src="../../plugins/iCheck/icheck.min.js"></script>
+<script src="<?php echo base_url(); ?>assets/plugins/iCheck/icheck.min.js"></script>
 <script>
   $(function () {
     $('input').iCheck({
